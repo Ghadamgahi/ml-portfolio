@@ -1,0 +1,9 @@
+# plus the requirements of https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix (cloned by the notebook)
+torch>=2.1
+torchvision>=0.16
+opencv-python
+scikit-image
+scikit-learn
+pandas
+numpy
+matplotlib

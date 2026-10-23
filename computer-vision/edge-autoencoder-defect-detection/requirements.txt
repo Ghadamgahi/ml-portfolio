@@ -1,0 +1,14 @@
+torch>=2.1
+torchvision>=0.16
+torchinfo
+scikit-learn
+scikit-image
+scipy
+pandas
+numpy
+matplotlib
+Pillow
+# INT8 TFLite / ONNX export (edge notebook)
+ai-edge-torch
+tensorflow
+onnx

@@ -1,0 +1,32 @@
+# Data and model artefacts are never committed
+data/
+datasets/
+work/
+outputs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.keras
+*.tflite
+*.onnx
+*.npy
+*.npz
+*.zip
+*.csv
+!**/assets/*.csv
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
