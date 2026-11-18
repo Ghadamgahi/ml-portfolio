@@ -1,9 +1,10 @@
-# [YOUR NAME]: Machine Learning & Computer Vision Portfolio
+# Mahdi Ghadamgahi: Machine Learning & Computer Vision Portfolio
 
-[SHORT BIO: 2–3 sentences, e.g. "ML engineer focused on computer vision for industrial inspection: anomaly detection,
-synthetic data generation and deployment to edge hardware."]
+ML engineer (MSc Computer Science, Politecnico di Milano) with 6+ years building ML pipelines for computer vision
+in industrial settings: anomaly detection, synthetic defect data and deployment to edge hardware. More recently,
+generative AI systems for creative production.
 
-📫 [EMAIL] · [LINKEDIN] · [WEBSITE]
+📫 [ghadamgahi.smm@gmail.com](mailto:ghadamgahi.smm@gmail.com) · [LinkedIn](https://linkedin.com/in/ghadamgahi) · [Website](https://ghadamgahi.github.io)
 
 ---
 
@@ -40,9 +41,11 @@ synthetic data generation and deployment to edge hardware."]
 | [Time-series forecasting](machine-learning/time-series-forecasting-lstm) | BiLSTM + Conv1D forecaster for 48 000 series; the autoregressive model scored 0.00536 test MSE (team challenge) | TensorFlow/Keras, LSTM |
 | [MLP from scratch](machine-learning/mlp-from-scratch) | Back-propagation and gradient descent implemented in NumPy | NumPy |
 
-### NLP / LLMs
+### Generative AI
 
-*No public projects yet.* [Add LLM / RAG work here.]
+| Project | What it does | Key tech |
+|---|---|---|
+| [Generative AI video production pipeline](https://ghadamgahi.github.io/laverna.html) | A serialised AI-generated media property run solo: four consistent virtual characters, music videos, a short film and daily short-form publishing (case study on my website) | Seedance, Seedream, prompt-system design, Premiere Pro |
 
 ## Skills demonstrated in this repository
 
