@@ -41,6 +41,15 @@ generative AI systems for creative production.
 | [Time-series forecasting](machine-learning/time-series-forecasting-lstm) | BiLSTM + Conv1D forecaster for 48 000 series; the autoregressive model scored 0.00536 test MSE (team challenge) | TensorFlow/Keras, LSTM |
 | [MLP from scratch](machine-learning/mlp-from-scratch) | Back-propagation and gradient descent implemented in NumPy | NumPy |
 
+### Technical Assessments
+
+Take-home tasks from job applications.
+
+| Project | What it does | Key tech |
+|---|---|---|
+| [GNSS projection and heading](technical-assessments/gnss-projection-heading) | Estimates vehicle heading from GNSS fixes and projects a roof-mounted antenna to the ground using roll and pitch | Python, NumPy, pandas, Matplotlib |
+| [Student performance analysis in Excel](technical-assessments/excel-student-analysis) | Formula-driven gradebook for 32 students and 5 courses, with per-student analysis, top-5 ranking and a self-updating dashboard | Excel (AVERAGEIF, MAXIFS, COUNTIFS, RANK.EQ, INDEX/MATCH, charts) |
+
 ### Generative AI
 
 | Project | What it does | Key tech |
@@ -66,6 +75,7 @@ generative AI systems for creative production.
 ```
 computer-vision/<project>/      notebooks, README.md, requirements.txt, assets/
 machine-learning/<project>/     notebooks, scripts, README.md, requirements.txt, assets/
+technical-assessments/<task>/   scripts or workbooks, README.md, assets/
 ```
 
 Every project README explains the problem, the approach, the results (copied from the notebook outputs) and how to run
